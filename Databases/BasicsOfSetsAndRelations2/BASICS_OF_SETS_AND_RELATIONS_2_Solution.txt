@@ -1,0 +1,3 @@
+BASICS_OF_SETS_AND_RELATIONS_2_Solution.txt
+
+Answer: 5
