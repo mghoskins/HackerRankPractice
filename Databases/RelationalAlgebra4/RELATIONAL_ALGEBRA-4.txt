@@ -1,0 +1,5 @@
+RELATIONAL_ALGEBRA-4.txt
+
+Answer: Left to right
+
+Note: This would only be correct if the operators are of the same precedence.
