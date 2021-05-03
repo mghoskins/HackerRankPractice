@@ -1,0 +1,3 @@
+RELATIONAL_ALGEBRA-3.txt
+
+Answer: Equijoins
